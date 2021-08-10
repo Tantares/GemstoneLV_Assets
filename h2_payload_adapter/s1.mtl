@@ -1,0 +1,11 @@
+# Exported from Wings 3D 1.5.4
+newmtl s0_auv
+Ns 100.0
+d 1.0
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 0.001 0.001 0.001
+Ke 1.0 1.0 1.0
+map_Kd a1.png
+
